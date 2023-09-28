@@ -1,0 +1,14 @@
+D:\YMYP2\yoklamaOdevi\bin\Debug\net7.0\yoklamaOdevi.exe
+D:\YMYP2\yoklamaOdevi\bin\Debug\net7.0\yoklamaOdevi.deps.json
+D:\YMYP2\yoklamaOdevi\bin\Debug\net7.0\yoklamaOdevi.runtimeconfig.json
+D:\YMYP2\yoklamaOdevi\bin\Debug\net7.0\yoklamaOdevi.dll
+D:\YMYP2\yoklamaOdevi\bin\Debug\net7.0\yoklamaOdevi.pdb
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\yoklamaOdevi.GeneratedMSBuildEditorConfig.editorconfig
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\yoklamaOdevi.AssemblyInfoInputs.cache
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\yoklamaOdevi.AssemblyInfo.cs
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\yoklamaOdevi.csproj.CoreCompileInputs.cache
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\yoklamaOdevi.dll
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\refint\yoklamaOdevi.dll
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\yoklamaOdevi.pdb
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\yoklamaOdevi.genruntimeconfig.cache
+D:\YMYP2\yoklamaOdevi\obj\Debug\net7.0\ref\yoklamaOdevi.dll
